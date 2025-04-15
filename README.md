@@ -9,6 +9,7 @@ Huge thanks to:
 - SeanMott for their [Kirby Air Ride decomp](https://github.com/SeanMott/KAR-Decomp/)
 
 ## Codes
+- [Big Kirby](./codes/big_kirby.md)
 - [Oops! All Mics!](./codes/all_mics.md)
 - [Brown Kirby](./codes/brown_kirby.md)
 - [Press Y to Quick Spin](./codes/y_spin.md) [container12345]
