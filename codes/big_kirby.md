@@ -1,6 +1,6 @@
 ### Big Kirby [shrub719]
 
-Makes P1 kirby large.
+Makes P1 kirby large. Also works with Meta Knight and Dedede!
 
 [**Source**](../asm/big_kirby.asm)
 
