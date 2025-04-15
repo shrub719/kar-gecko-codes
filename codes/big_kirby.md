@@ -1,0 +1,14 @@
+### Big Kirby [shrub719]
+
+Makes P1 kirby large.
+
+[**Source**](../asm/big_kirby.asm)
+
+```
+$Big Kirby [shrub719]
+C2191A3C 00000004
+3CA08055 60A5AA2C
+80A50000 38C03FFF
+B0C50328 38600000
+60000000 00000000
+```
