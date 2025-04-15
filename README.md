@@ -11,5 +11,6 @@ Huge thanks to:
 ## Codes
 - [Big Kirby](./codes/big_kirby.md)
 - [Oops! All Mics!](./codes/all_mics.md)
+- [Oops! All Machine Passage!](./codes/machine_passage.md)
 - [Brown Kirby](./codes/brown_kirby.md)
 - [Press Y to Quick Spin](./codes/y_spin.md) [container12345]
