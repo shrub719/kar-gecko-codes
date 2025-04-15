@@ -10,6 +10,7 @@ Huge thanks to:
 - SeanMott for their [Kirby Air Ride decomp](https://github.com/SeanMott/KAR-Decomp/)
 
 ## Codes
+- [Press Y to Turn Big](./codes/y_big.md)
 - [Big Kirby](./codes/big_kirby.md)
 - [Oops! All Mics!](./codes/all_mics.md)
 - [Oops! All Machine Passage!](./codes/machine_passage.md)
