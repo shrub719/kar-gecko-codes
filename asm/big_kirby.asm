@@ -10,5 +10,5 @@ loc_0x0:
   ori r5, r5, 0xAA2C    # stores the second half
   lwz r5, 0 (r5)        # gets the memory address the pointer points to
   li r6, 0x3FFF         # prepares the size value 0x3FFF
-  sth r6, 808 (r5)      # stores the size value ofset 808 from the start of the struct
+  sth r6, 0x328 (r5)    # stores the size value offset 0x328 from the start of the struct
   li r3, 0x0            # the command the code overwrites
