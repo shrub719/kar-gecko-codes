@@ -18,11 +18,13 @@ C2191A3C 00000007
 
 ### Press Y to Change Size [shrub719]
 
-XXXX = size:
-- Big: 3FFFF
-- Small: 3F00
-- Tiny: 3DFF
-- Huge: 4090
+Press Y to change P1 kirby's size.
+
+**Size: XXXX**  
+Big: 3FFFF  
+Small: 3F00  
+Tiny: 3DFF  
+Huge: 4090
 
 ```
 $Press Y to Change Size [shrub719]

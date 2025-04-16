@@ -1,9 +1,7 @@
 # Press Y to Turn Big [shrub719]
 # Injected at 80191A3C
 
-# location (and "press Y" code) stolen from container12345's y_spin
-# it's part of the main loop that's supposed to check for whether it should quick spin
-
+# code frankensteined from y_spin and big_kirby
 start:
   # CODE FROM Y_SPIN
   lwz r3, 996(r30)              # CHECK: i think this is the location of the input struct of the player that pressed y?

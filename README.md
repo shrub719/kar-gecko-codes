@@ -11,6 +11,7 @@ Huge thanks to:
 
 ## Codes
 - [Press Y to Turn Big](./codes/y_big.md)
+- [Huge Kirbies](./codes/huge_kirbies.md)
 - [Big Kirby](./codes/big_kirby.md)
 - [Oops! All Mics!](./codes/all_mics.md)
 - [Oops! All Machine Passage!](./codes/machine_passage.md)
