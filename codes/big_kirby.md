@@ -2,6 +2,8 @@
 
 Makes P1 kirby large. Also works with Meta Knight and Dedede!
 
+You'll probably want to check out the improved [Random Size Changer](random_size.md), [Press Y to Change Size](y_size.md) or [Universal Size Changer](size_changer.md).
+
 [**Source**](../asm/big_kirby.asm)
 
 ```

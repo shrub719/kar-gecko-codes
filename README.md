@@ -4,8 +4,9 @@ A collection of Gecko codes for the US version of Kirby Air Ride for the GameCub
 Some codes are from [Kirby Air Ride Online](https://github.com/EternalllZM/rtd-kar/) which were shared under the MIT license and are not by me. These are clearly noted.
 
 ## Codes
-- [Press Y to Turn Big](./codes/y_big.md)
-- [Huge Kirbies](./codes/huge_kirbies.md)
+- [Random Size Changer](./codes/random_size.md)
+- [Press Y to Change Size](./codes/y_size.md)
+- [Universal Size Changer](./codes/size_changer.md)
 - [Big Kirby](./codes/big_kirby.md)
 - [Oops! All Mics!](./codes/all_mics.md)
 - [Oops! All Machine Passage!](./codes/machine_passage.md)
