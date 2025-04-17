@@ -12,6 +12,7 @@ Some codes are from [Kirby Air Ride Online](https://github.com/EternalllZM/rtd-k
 - [Oops! All Machine Passage!](./codes/machine_passage.md)
 - [Brown Kirby](./codes/brown_kirby.md)
 - [Press Y to Quick Spin](./codes/y_spin.md) [container12345]
+- [Random Machine in Title Screen](./codes/random_machine.md) [container12345]
 
 ## Credits
 
