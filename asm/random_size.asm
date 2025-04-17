@@ -17,7 +17,7 @@ loc_0x0:
   ori r3, r3, 0xE668    # loads 0x8041E668 into r3
                         # i think this is the location of a randomiser function?
   mtctr r3
-  li r3, 0x200          # r3 is input to the function, the max value to generate
+  li r3, 0x150          # r3 is input to the function, the max value to generate
   bctrl                 # branches to that location, with link (so it comes back)
   
   # sets player size
