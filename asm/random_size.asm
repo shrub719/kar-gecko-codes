@@ -17,12 +17,12 @@ loc_0x0:
   ori r3, r3, 0xE668    # loads 0x8041E668 into r3
                         # i think this is the location of a randomiser function?
   mtctr r3
-  li r3, 0x150          # r3 is input to the function, the max value to generate
+  li r3, 0x250          # r3 is input to the function, the max value to generate
   bctrl                 # branches to that location, with link (so it comes back)
   
   # sets player size
   mr r6, r3             # copies r3 (output of randomiser) to r6
-  addi r6, r6, 0x3F00   # 3F00 is the lower limit i picked for the size
+  addi r6, r6, 0x3E50   # 3E50 is the lower limit i picked for the size
                         # it adds a random value onto that
   sth r6, 0x328 (r24)   # r24 points to the start of the current player's struct
                         # stores the size value offset 0x328 from the start of the struct
