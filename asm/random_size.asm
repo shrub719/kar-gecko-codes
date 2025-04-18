@@ -32,5 +32,6 @@ end:
   # has to be run every time if switched machine
   lhz r6, 0x328 (r24)   # loads the size
   lwz r5, 0x18 (r24)    # pointer to machine
+                        # FIX: this sometimes doesn't point to the machine being currently ridden...
   sth r6, 0x3B0 (r5)    # stores the size value to the machine
   li r3, 0x0            # the command the code overwrites
